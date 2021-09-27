@@ -49,7 +49,6 @@ public class Calculator {
         else {
             System.out.println("Vous n'avez pas rentrer un opérateur compris entre 1 et 5 inclus.");
             System.exit(0);
-            System.out.println("La vie de ma mère ça marche");
             
         }
     }
