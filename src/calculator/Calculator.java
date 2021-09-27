@@ -27,6 +27,7 @@ public class Calculator {
         int operand1=0;
         int operand2=0;
         
+        
         Scanner sc;
         sc = new Scanner(System.in);
         System.out.println("Veuillez saisir un opérateur compris entre 1 et 5 inclus :");
